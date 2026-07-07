@@ -173,6 +173,8 @@
             </div>
         </div>
     </main>
+<script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script><script id="zsiqscript" src="https://salesiq.zohopublic.com/widget?wc=siqf655729a276c523363723939f6ecd7959b43dd3908d513c283ec8a7096ce20ff" defer></script> 
+
 
     <!-- Footer -->
     <footer>
@@ -180,18 +182,6 @@
             <p>&copy; 2026 TestLab. All rights reserved.</p>
         </div>
     </footer>
-	<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/6a4ce844edc2ff1d46ff1d9d/1jsu6mjtb';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+ 
 </body>
 </html>
